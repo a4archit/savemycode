@@ -9,10 +9,5 @@
             "src": "/(.*)",
             "dest": "savemycode/wsgi.py"
         }
-    ],
-      "functions": {
-        "app_directory/wsgi.py": {
-          "maxDuration": 60
-    }
-  }
+    ]
 }
